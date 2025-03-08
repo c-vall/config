@@ -1,0 +1,59 @@
+window {
+	margin: 0px;
+	border: none;
+	border-radius: 10px;
+	background-color: #ffffff;
+	font-family: Surce Code Pro;
+	font-size: 14px;
+	}
+	
+	#input {
+	margin: 10px;
+	color: #313131;
+	border-radius: 5px;
+	background-color: #E5EBEE
+	}
+
+	#input image {
+		color: #e4e4e4;
+	}
+	
+	#inner-box {
+	margin: 0px;
+	border-radius: 10px;
+	background-color: #ffffff;
+	
+	}
+	
+	#outer-box {
+	margin: 0px;
+	border-radius: 0px;
+	background-color: #ffffff;
+	}
+	
+	#scroll {
+	margin: 0px;
+	border: none;
+	}
+	
+	#text {
+	margin: 5px;
+	border: none;
+	color: #313131;
+	}
+
+	
+	#entry:selected {
+		outline-style: none;
+		background-color: #3584E4;
+		border-radius: 10px;
+		font-weight: normal;
+		border: none;
+	}
+	
+	#text:selected {
+		color: white;
+		border-radius: 10px;
+		font-weight: normal;
+		border: none;
+	}
